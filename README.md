@@ -2,6 +2,7 @@
 
 This project is a Natural Language Processing(NLP) application on determining whether a social media tweet is offensive or not. If its offensive then determining whether it is targeted offense or untargeted offensive. If it is targeted offense then determining whether it is group targeted, individual targeted or others.
 
+
 ## setup
 
  ### Step 1: Create a virtual environment to isolate our packages and dependencies
@@ -57,6 +58,9 @@ uvicorn backend:app --reload --port 8001
 
 Integrated Module (main)
 streamlit run main.py
+
+Conclusion
+After utilizing various models it has been observed that Random Forest worked out to be the best based on the dataset charachteristics.
 
 
 For questions or issues, please contact us on (mehtakrisha0810@gmail.com)
