@@ -1,6 +1,6 @@
 # Offensive Text Detection On Social Media
 
-This project in a Natural Language Processing(NLP) application on determining whether a social media tweet is offensive or not. If its offensive then determining whether it is targeted offense or untargeted offensive. If it is targeted offense then determining whether it is group targeted, individual targeted or others.
+This project is a Natural Language Processing(NLP) application on determining whether a social media tweet is offensive or not. If its offensive then determining whether it is targeted offense or untargeted offensive. If it is targeted offense then determining whether it is group targeted, individual targeted or others.
 
 ## setup
 
