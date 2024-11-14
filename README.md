@@ -51,15 +51,19 @@ tfidf_vectorizer.pkl:this project uses tfidf vectorization
 Instructions for running the backend and frontend components.
 
 Frontend
+
 streamlit run frontend.py
 
 Backend
+
 uvicorn backend:app --reload --port 8001
 
 Integrated Module (main)
+
 streamlit run main.py
 
-Conclusion
+ ###Conclusion
+
 After utilizing various models it has been observed that Random Forest worked out to be the best based on the dataset charachteristics.
 
 
